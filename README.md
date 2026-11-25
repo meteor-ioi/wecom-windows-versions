@@ -10,7 +10,7 @@ Automated archive tracking and release repository for Tencent WeCom (Enterprise 
 
 This project uses `GitHub Actions` to automatically check for updates **every hour**, download the latest official installer, compute SHA-256 integrity checksums, and publish it to the [Releases](https://github.com/meteor-ioi/wecom-windows-versions/releases) section of this repository.
 
-It also supports chronologically backfilling historical releases starting from version 4.0.0.
+It also supports chronologically backfilling historical releases starting from version 4.0.0. See [VERSIONS.md](VERSIONS.md) for the complete list of historical download links.
 
 ## Related Projects
 

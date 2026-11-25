@@ -10,7 +10,7 @@
 
 本项目通过 `GitHub Actions` **每小时**自动检测腾讯企业微信官方分发服务器的更新，拉取最新安装包、校验 SHA-256 哈希并同步发布至本仓库的 [Releases](https://github.com/meteor-ioi/wecom-windows-versions/releases) 页面。
 
-同时支持从 4.0.0 起按时间正序全量回溯归档所有历史版本。
+同时支持从 4.0.0 起按时间正序全量回溯归档所有历史版本。全量历史直链清单请参阅 [VERSIONS.md](VERSIONS.md)。
 
 ## 相关项目 (Related Projects)
 
