@@ -67,6 +67,26 @@ def download_and_hash(url, dest_path):
             f.write(chunk)
     return hasher.hexdigest()
 
+
+def update_versions_md(version, size_mb, url):
+    versions_file = Path("VERSIONS.md")
+    if not versions_file.exists():
+        return
+    content = versions_file.read_text(encoding="utf-8")
+    new_row = f"| {version} | {size_mb} MB | [{url}]({url}) |"
+    lines = content.splitlines()
+    header_idx = -1
+    for idx, line in enumerate(lines):
+        if line.strip().startswith("| :---"):
+            header_idx = idx
+            break
+    if header_idx != -1:
+        lines.insert(header_idx + 1, new_row)
+        versions_file.write_text("
+".join(lines) + "
+", encoding="utf-8")
+        print(f"Updated VERSIONS.md with new version {version}")
+
 def main():
     repo = os.getenv("GITHUB_REPOSITORY", "meteor-ioi/wecom-windows-versions")
     info = get_latest_official()
@@ -93,6 +113,7 @@ def main():
             f"- **Last Modified**: `{info['last_modified']}`\n"
         )
         (build_dir / "releaseNote.md").write_text(release_note, encoding="utf-8")
+        update_versions_md(version, info["size_mb"], info["url"])
         print("Release note generated.")
     else:
         print(f"Release {tag} already exists. No update required.")
