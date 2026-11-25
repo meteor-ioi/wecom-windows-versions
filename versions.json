@@ -1,0 +1,513 @@
+[
+  {
+    "version": "4.0.0.6024",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.0.6024.exe",
+    "status": 200,
+    "size_mb": 447.05,
+    "last_modified": "Wed, 02 Mar 2022 05:19:29 GMT"
+  },
+  {
+    "version": "4.0.2.6028",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.2.6028.exe",
+    "status": 200,
+    "size_mb": 320.32,
+    "last_modified": "Fri, 18 Mar 2022 13:55:39 GMT"
+  },
+  {
+    "version": "4.0.2.6034",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.2.6034.exe",
+    "status": 200,
+    "size_mb": 324.31,
+    "last_modified": "Wed, 16 Mar 2022 03:58:35 GMT"
+  },
+  {
+    "version": "4.0.3.6007",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.3.6007.exe",
+    "status": 200,
+    "size_mb": 324.41,
+    "last_modified": "Wed, 30 Mar 2022 01:20:50 GMT"
+  },
+  {
+    "version": "4.0.6.6516",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.6.6516.exe",
+    "status": 200,
+    "size_mb": 328.83,
+    "last_modified": "Fri, 29 Apr 2022 02:26:52 GMT"
+  },
+  {
+    "version": "4.0.8.6027",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.8.6027.exe",
+    "status": 200,
+    "size_mb": 338.36,
+    "last_modified": "Fri, 24 Jun 2022 19:32:33 GMT"
+  },
+  {
+    "version": "4.0.12.6015",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.12.6015.exe",
+    "status": 200,
+    "size_mb": 355.99,
+    "last_modified": "Fri, 12 Aug 2022 04:34:37 GMT"
+  },
+  {
+    "version": "4.0.16.6007",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.16.6007.exe",
+    "status": 200,
+    "size_mb": 358.06,
+    "last_modified": "Wed, 24 Aug 2022 11:18:27 GMT"
+  },
+  {
+    "version": "4.0.18.6007",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.18.6007.exe",
+    "status": 200,
+    "size_mb": 368.98,
+    "last_modified": "Sat, 08 Oct 2022 14:43:17 GMT"
+  },
+  {
+    "version": "4.0.18.6012",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.18.6012.exe",
+    "status": 200,
+    "size_mb": 368.97,
+    "last_modified": "Thu, 13 Oct 2022 10:35:23 GMT"
+  },
+  {
+    "version": "4.0.20.6007",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.20.6007.exe",
+    "status": 200,
+    "size_mb": 377.81,
+    "last_modified": "Wed, 30 Nov 2022 19:13:16 GMT"
+  },
+  {
+    "version": "4.0.20.6020",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.20.6020.exe",
+    "status": 200,
+    "size_mb": 377.86,
+    "last_modified": "Wed, 07 Dec 2022 15:02:01 GMT"
+  },
+  {
+    "version": "4.1.0.6007",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.0.6007.exe",
+    "status": 200,
+    "size_mb": 387.34,
+    "last_modified": "Mon, 09 Jan 2023 15:15:31 GMT"
+  },
+  {
+    "version": "4.1.0.6016",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.0.6016.exe",
+    "status": 200,
+    "size_mb": 387.52,
+    "last_modified": "Fri, 03 Mar 2023 13:28:00 GMT"
+  },
+  {
+    "version": "4.1.2.6009",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.2.6009.exe",
+    "status": 200,
+    "size_mb": 387.01,
+    "last_modified": "Sat, 18 Mar 2023 15:02:38 GMT"
+  },
+  {
+    "version": "4.1.2.6017",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.2.6017.exe",
+    "status": 200,
+    "size_mb": 387.15,
+    "last_modified": "Mon, 27 Mar 2023 07:19:03 GMT"
+  },
+  {
+    "version": "4.1.3.6006",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.3.6006.exe",
+    "status": 200,
+    "size_mb": 387.15,
+    "last_modified": "Tue, 04 Apr 2023 13:08:07 GMT"
+  },
+  {
+    "version": "4.1.3.6008",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.3.6008.exe",
+    "status": 200,
+    "size_mb": 387.14,
+    "last_modified": "Thu, 06 Apr 2023 06:26:19 GMT"
+  },
+  {
+    "version": "4.1.6.6017",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.6.6017.exe",
+    "status": 200,
+    "size_mb": 403.24,
+    "last_modified": "Thu, 18 May 2023 18:32:58 GMT"
+  },
+  {
+    "version": "4.1.8.6006",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.8.6006.exe",
+    "status": 200,
+    "size_mb": 418.02,
+    "last_modified": "Thu, 20 Jul 2023 07:11:47 GMT"
+  },
+  {
+    "version": "4.1.8.6022",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.8.6022.exe",
+    "status": 200,
+    "size_mb": 417.77,
+    "last_modified": "Wed, 09 Aug 2023 04:22:07 GMT"
+  },
+  {
+    "version": "4.1.8.6034",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.8.6034.exe",
+    "status": 200,
+    "size_mb": 417.77,
+    "last_modified": "Fri, 11 Aug 2023 10:46:45 GMT"
+  },
+  {
+    "version": "4.1.9.6038",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.9.6038.exe",
+    "status": 200,
+    "size_mb": 417.74,
+    "last_modified": "Mon, 21 Aug 2023 13:11:27 GMT"
+  },
+  {
+    "version": "4.1.9.6042",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.9.6042.exe",
+    "status": 200,
+    "size_mb": 417.42,
+    "last_modified": "Mon, 18 Sep 2023 03:15:02 GMT"
+  },
+  {
+    "version": "4.1.10.6007",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.10.6007.exe",
+    "status": 200,
+    "size_mb": 443.53,
+    "last_modified": "Tue, 26 Sep 2023 18:58:10 GMT"
+  },
+  {
+    "version": "4.1.12.6010",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.12.6010.exe",
+    "status": 200,
+    "size_mb": 462.08,
+    "last_modified": "Mon, 20 Nov 2023 21:00:09 GMT"
+  },
+  {
+    "version": "4.1.12.6012",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.12.6012.exe",
+    "status": 200,
+    "size_mb": 462.07,
+    "last_modified": "Tue, 21 Nov 2023 12:29:15 GMT"
+  },
+  {
+    "version": "4.1.13.6002",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.13.6002.exe",
+    "status": 200,
+    "size_mb": 462.37,
+    "last_modified": "Thu, 30 Nov 2023 16:44:30 GMT"
+  },
+  {
+    "version": "4.1.15.6007",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.15.6007.exe",
+    "status": 200,
+    "size_mb": 462.76,
+    "last_modified": "Fri, 08 Dec 2023 14:09:37 GMT"
+  },
+  {
+    "version": "4.1.16.6007",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.16.6007.exe",
+    "status": 200,
+    "size_mb": 463.87,
+    "last_modified": "Wed, 20 Dec 2023 19:15:39 GMT"
+  },
+  {
+    "version": "4.1.20.6006",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.20.6006.exe",
+    "status": 200,
+    "size_mb": 465.38,
+    "last_modified": "Mon, 15 Jan 2024 18:28:40 GMT"
+  },
+  {
+    "version": "4.1.20.6024",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.20.6024.exe",
+    "status": 200,
+    "size_mb": 465.42,
+    "last_modified": "Wed, 07 Feb 2024 18:32:29 GMT"
+  },
+  {
+    "version": "4.1.22.6009",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.22.6009.exe",
+    "status": 200,
+    "size_mb": 467.71,
+    "last_modified": "Sun, 07 Apr 2024 19:43:05 GMT"
+  },
+  {
+    "version": "4.1.26.6014",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.26.6014.exe",
+    "status": 200,
+    "size_mb": 466.11,
+    "last_modified": "Thu, 30 May 2024 23:33:03 GMT"
+  },
+  {
+    "version": "4.1.26.6019",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.26.6019.exe",
+    "status": 200,
+    "size_mb": 465.98,
+    "last_modified": "Fri, 07 Jun 2024 02:58:13 GMT"
+  },
+  {
+    "version": "4.1.27.6029",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.27.6029.exe",
+    "status": 200,
+    "size_mb": 477.1,
+    "last_modified": "Sun, 07 Jul 2024 03:34:01 GMT"
+  },
+  {
+    "version": "4.1.27.6032",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.27.6032.exe",
+    "status": 200,
+    "size_mb": 477.23,
+    "last_modified": "Tue, 09 Jul 2024 15:34:46 GMT"
+  },
+  {
+    "version": "4.1.27.8111",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.27.8111.exe",
+    "status": 200,
+    "size_mb": 478.57,
+    "last_modified": "Fri, 19 Jul 2024 06:53:26 GMT"
+  },
+  {
+    "version": "4.1.28.6005",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.28.6005.exe",
+    "status": 200,
+    "size_mb": 477.74,
+    "last_modified": "Thu, 25 Jul 2024 15:31:42 GMT"
+  },
+  {
+    "version": "4.1.28.6019",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.28.6019.exe",
+    "status": 200,
+    "size_mb": 478.04,
+    "last_modified": "Fri, 23 Aug 2024 18:16:15 GMT"
+  },
+  {
+    "version": "4.1.30.6004",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.30.6004.exe",
+    "status": 200,
+    "size_mb": 484.65,
+    "last_modified": "Tue, 24 Sep 2024 17:00:13 GMT"
+  },
+  {
+    "version": "4.1.30.6008",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.30.6008.exe",
+    "status": 200,
+    "size_mb": 484.65,
+    "last_modified": "Sat, 28 Sep 2024 04:34:37 GMT"
+  },
+  {
+    "version": "4.1.31.6017",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.31.6017.exe",
+    "status": 200,
+    "size_mb": 484.35,
+    "last_modified": "Mon, 11 Nov 2024 17:10:55 GMT"
+  },
+  {
+    "version": "4.1.32.6005",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.32.6005.exe",
+    "status": 200,
+    "size_mb": 492.7,
+    "last_modified": "Fri, 20 Dec 2024 16:56:35 GMT"
+  },
+  {
+    "version": "4.1.33.6009",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.33.6009.exe",
+    "status": 200,
+    "size_mb": 492.94,
+    "last_modified": "Thu, 20 Feb 2025 15:56:29 GMT"
+  },
+  {
+    "version": "4.1.36.6004",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.36.6004.exe",
+    "status": 200,
+    "size_mb": 506.81,
+    "last_modified": "Wed, 07 May 2025 04:18:14 GMT"
+  },
+  {
+    "version": "4.1.36.6011",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.36.6011.exe",
+    "status": 200,
+    "size_mb": 506.62,
+    "last_modified": "Wed, 02 Apr 2025 11:45:11 GMT"
+  },
+  {
+    "version": "4.1.36.6012",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.36.6012.exe",
+    "status": 200,
+    "size_mb": 506.6,
+    "last_modified": "Thu, 03 Apr 2025 04:50:33 GMT"
+  },
+  {
+    "version": "4.1.38.6006",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.38.6006.exe",
+    "status": 200,
+    "size_mb": 527.21,
+    "last_modified": "Wed, 11 Jun 2025 17:10:13 GMT"
+  },
+  {
+    "version": "4.1.38.6021",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.38.6021.exe",
+    "status": 200,
+    "size_mb": 527.34,
+    "last_modified": "Wed, 02 Jul 2025 03:44:21 GMT"
+  },
+  {
+    "version": "4.1.39.6004",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.39.6004.exe",
+    "status": 200,
+    "size_mb": 526.68,
+    "last_modified": "Wed, 16 Jul 2025 16:27:15 GMT"
+  },
+  {
+    "version": "4.1.41.6006",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.41.6006.exe",
+    "status": 200,
+    "size_mb": 527.23,
+    "last_modified": "Thu, 07 Aug 2025 17:09:59 GMT"
+  },
+  {
+    "version": "5.0.0.6008",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.0.6008.exe",
+    "status": 200,
+    "size_mb": 532.79,
+    "last_modified": "Tue, 19 Aug 2025 07:57:31 GMT"
+  },
+  {
+    "version": "5.0.0.8002",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.0.8002.exe",
+    "status": 200,
+    "size_mb": 532.81,
+    "last_modified": "Wed, 20 Aug 2025 07:54:30 GMT"
+  },
+  {
+    "version": "5.0.2.6008",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.2.6008.exe",
+    "status": 200,
+    "size_mb": 563.89,
+    "last_modified": "Mon, 17 Nov 2025 21:11:54 GMT"
+  },
+  {
+    "version": "5.0.3.6005",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.3.6005.exe",
+    "status": 200,
+    "size_mb": 560.88,
+    "last_modified": "Fri, 26 Dec 2025 18:04:46 GMT"
+  },
+  {
+    "version": "5.0.6.6010",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.6.6010.exe",
+    "status": 200,
+    "size_mb": 559.23,
+    "last_modified": "Sun, 08 Feb 2026 06:59:46 GMT"
+  },
+  {
+    "version": "5.0.6.6013",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.6.6013.exe",
+    "status": 200,
+    "size_mb": 558.63,
+    "last_modified": "Mon, 09 Feb 2026 11:14:45 GMT"
+  },
+  {
+    "version": "5.0.6.6018",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.6.6018.exe",
+    "status": 200,
+    "size_mb": 559.28,
+    "last_modified": "Tue, 10 Feb 2026 18:02:02 GMT"
+  },
+  {
+    "version": "5.0.6.6028",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.6.6028.exe",
+    "status": 200,
+    "size_mb": 559.24,
+    "last_modified": "Thu, 26 Feb 2026 18:56:36 GMT"
+  },
+  {
+    "version": "5.0.7.6005",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.7.6005.exe",
+    "status": 200,
+    "size_mb": 560.4,
+    "last_modified": "Thu, 12 Mar 2026 15:00:41 GMT"
+  },
+  {
+    "version": "5.0.8.6006",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.8.6006.exe",
+    "status": 200,
+    "size_mb": 565.92,
+    "last_modified": "Tue, 21 Apr 2026 18:56:41 GMT"
+  },
+  {
+    "version": "5.0.8.6009",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.8.6009.exe",
+    "status": 200,
+    "size_mb": 565.92,
+    "last_modified": "Fri, 24 Apr 2026 17:07:11 GMT"
+  },
+  {
+    "version": "5.0.9.6009",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.9.6009.exe",
+    "status": 200,
+    "size_mb": 603.65,
+    "last_modified": "Mon, 22 Jun 2026 23:05:02 GMT"
+  },
+  {
+    "version": "5.0.9.6019",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.9.6019.exe",
+    "status": 200,
+    "size_mb": 603.64,
+    "last_modified": "Wed, 24 Jun 2026 12:24:48 GMT"
+  },
+  {
+    "version": "5.0.9.6029",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.9.6029.exe",
+    "status": 200,
+    "size_mb": 603.67,
+    "last_modified": "Sun, 28 Jun 2026 00:21:16 GMT"
+  },
+  {
+    "version": "5.0.9.6063",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.9.6063.exe",
+    "status": 200,
+    "size_mb": 605.25,
+    "last_modified": "Fri, 31 Jul 2026 16:13:20 GMT"
+  },
+  {
+    "version": "5.0.10.6015",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.10.6015.exe",
+    "status": 200,
+    "size_mb": 604.18,
+    "last_modified": "Fri, 14 Aug 2026 17:21:11 GMT"
+  },
+  {
+    "version": "5.0.11.6018",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.11.6018.exe",
+    "status": 200,
+    "size_mb": 618.17,
+    "last_modified": "Wed, 09 Sep 2026 20:49:45 GMT"
+  },
+  {
+    "version": "5.0.12.6013",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.12.6013.exe",
+    "status": 200,
+    "size_mb": 628.02,
+    "last_modified": "Sun, 11 Oct 2026 10:58:42 GMT"
+  },
+  {
+    "version": "5.0.12.6018",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.12.6018.exe",
+    "status": 200,
+    "size_mb": 628.07,
+    "last_modified": "Tue, 13 Oct 2026 15:26:16 GMT"
+  },
+  {
+    "version": "5.0.13.6005",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.13.6005.exe",
+    "status": 200,
+    "size_mb": 628.7,
+    "last_modified": "Thu, 22 Oct 2026 15:48:19 GMT"
+  },
+  {
+    "version": "5.0.13.8035",
+    "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.13.8035.exe",
+    "status": 200,
+    "size_mb": 630.0,
+    "last_modified": ""
+  }
+]

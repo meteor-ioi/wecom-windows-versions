@@ -1,0 +1,35 @@
+name: Backfill Historical Releases
+
+on:
+  workflow_dispatch:
+    inputs:
+      start:
+        description: "Start index (0-based, sorted oldest to newest)"
+        required: false
+        default: "0"
+      limit:
+        description: "Number of versions to process (0 = all)"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run backfill from oldest to newest
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          python backfill.py --start ${{ github.event.inputs.start }} --limit ${{ github.event.inputs.limit }}
